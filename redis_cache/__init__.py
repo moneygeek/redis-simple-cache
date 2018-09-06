@@ -1,1 +1,1 @@
-from rediscache import *
+from redis_cache.rediscache import *
